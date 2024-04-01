@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tannzzy
-- 👀 I’m interested in leanring more and going for long walks
+- 👀 I’m interested in coding and going for long walks
 - 🌱 I’m currently learning about the meaning of life...and python
 - 📫 How to reach me (you can't...yet)
 - ⚡ Fun fact: the moon is made out of cheese
