@@ -8,7 +8,7 @@ Specialising in data science and majoring in cybersecurity🧑‍💻<br>
 
 # 📊 GitHub Stats:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TanzyRyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" />
+<img src="https://github-readme-stats.vercel.app/api?username=TanzyRyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 <br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=TanzyRyan&theme=dark&hide_border=false" />
 <br/>
